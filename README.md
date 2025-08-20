@@ -24,8 +24,7 @@ ______
  ├── app.py                       # Main application script
  ├── movie_recommender_system.ipynb  # Jupyter notebook for model development
  ├── README.md                    # Project documentation
-
-
+ 
 ______
 
  ⚙ Installation & Usage
